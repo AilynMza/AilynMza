@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Aprendiendo a programar en:</h2>
+<h2 align="left">Aprendiendo:</h2>
 
 ###
 
