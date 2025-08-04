@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aprendiendo desde 2024.<br>📚 Actualmente estoy aprendiendo CSS, HTML, JS, React y Figma.<br>🎯 Objetivos: aplicar mis conocimientos electrónicos con el desarrollo de páginas web y otros programas. <br>🎲 Me gustan los videojuegos y el anime.</p>
+<p align="left">✨ Aprendiendo desde 2024.<br>📚 Actualmente estoy estudiando CSS, HTML, JS, React y Figma.<br>🎯 Objetivos: aplicar mis conocimientos electrónicos con el desarrollo de páginas web y otros programas. <br>🎲 Me gustan los videojuegos y el anime.</p>
 
 ###
 
