@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Aprendiendo:</h2>
+<h2 align="left">Aprendiendo y reforzando mis conocimientos en:</h2>
 
 ###
 
